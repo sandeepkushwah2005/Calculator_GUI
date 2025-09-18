@@ -1,7 +1,7 @@
 # Calculator_GUI
 This my first calculator
 <br>
-Author - Sandeep verma
+Author - Sandeep (sanu)
 <br>
 
 //Start
